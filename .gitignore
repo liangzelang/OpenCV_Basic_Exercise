@@ -1,0 +1,19 @@
+# VS2010
+Debug/
+ipch/
+*.sdf
+*.sln
+*.suo
+
+# SRC
+*.vcxproj
+*.filters
+*.user
+
+# pictrue
+*.png
+*.jpg
+
+# Markdown
+*.md
+*.md~
