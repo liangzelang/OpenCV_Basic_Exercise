@@ -13,6 +13,7 @@ ipch/
 # pictrue
 *.png
 *.jpg
+*.bmp
 
 # Markdown
 *.md
