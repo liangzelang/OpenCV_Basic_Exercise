@@ -24,7 +24,7 @@ int main()
 	waitKey(0);
 	return 0;
 }
-/*
+
 void colorReduce(Mat & inputImage, Mat & outputImage, int div)
 {
 	outputImage = inputImage.clone();
@@ -39,7 +39,7 @@ void colorReduce(Mat & inputImage, Mat & outputImage, int div)
 			data[j] = data[j]/div*div;
 		}
 	}
-}*/
+}
 
 /*
 void colorReduce(Mat & inputImage, Mat & outputImage, int div)
