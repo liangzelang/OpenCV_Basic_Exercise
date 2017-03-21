@@ -16,9 +16,6 @@ int main()
 	//way3 为IplImage创建信息头
 	IplImage* img = cvLoadImage("D:\\C++程序联系文件夹（可选择性删除）\\OpenCV_Exercise\\learn.jpg",1);
 	Mat mtx(img);
-	
-	//namedWindow("【学无止境】",1);
-	//imshow("【学无止境】", mtx);
 
 	//way4 使用Create()函数
 	Mat K;

@@ -4,6 +4,7 @@ using namespace cv;
 using namespace std;
 int main()
 {
+	system("color 5E");
 	Mat r = Mat(3, 3, CV_8UC3);
 	randu(r, Scalar::all(0), Scalar::all(255));
 	//OpenCV格式化输出
